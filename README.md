@@ -20,24 +20,15 @@ Full Stack Developer • GenAI Engineer • BCA Student at Galgotias University
 
 ---
 
-## 🌐 Connect with Me
+## 🐍 Contribution Game
 
-<p align="left">
-<a href="https://linkedin.com/in/daksh-gupta-1a6b8836a">
-<img src="https://skillicons.dev/icons?i=linkedin" height="48"/>
-</a>
+<p align="center">
 
-<a href="mailto:dakshgupta206@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="48"/>
-</a>
-
-<a href="https://tryhackme.com/p/dakshgupta206">
-<img src="https://cdn.simpleicons.org/tryhackme/ffffff" height="48"/>
-</a>
-
-<a href="https://www.hackerrank.com/profile/27Daksh">
-<img src="https://cdn.simpleicons.org/hackerrank/00EA64" height="48"/>
-</a>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dakshg1203/dakshg1203/pacman-output/bomberman-contribution-graph-dark.svg?game=bomberman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dakshg1203/dakshg1203/pacman-output/bomberman-contribution-graph.svg?game=bomberman">
+  <img alt="Contribution Graph" src="https://raw.githubusercontent.com/dakshg1203/dakshg1203/pacman-output/bomberman-contribution-graph.svg?game=bomberman">
+</picture>
 
 </p>
 
@@ -47,13 +38,43 @@ Full Stack Developer • GenAI Engineer • BCA Student at Galgotias University
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,python,java,tailwind,bootstrap,mongodb,postgres,mysql,sqlite,docker,git,github,vscode,figma,tensorflow,fastapi" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,python,java,tailwind,bootstrap,mongodb,postgres,mysql,docker,git,github,vscode,figma,fastapi,tensorflow" />
 
 </p>
 
 ---
 
-# 📈 GitHub Stats
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://linkedin.com/in/daksh-gupta-1a6b8836a">
+<img src="https://skillicons.dev/icons?i=linkedin" height="48"/>
+</a>
+
+&nbsp;&nbsp;&nbsp;
+
+<a href="mailto:dakshgupta206@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" height="48"/>
+</a>
+
+&nbsp;&nbsp;&nbsp;
+
+<a href="https://www.hackerrank.com/profile/27Daksh">
+<img src="https://cdn.simpleicons.org/hackerrank/00EA64" height="48"/>
+</a>
+
+&nbsp;&nbsp;&nbsp;
+
+<a href="https://tryhackme.com/p/dakshgupta206">
+<img src="https://cdn.simpleicons.org/tryhackme/ffffff" height="48"/>
+</a>
+
+</p>
+
+---
+
+# 📊 GitHub Stats
 
 <p align="center">
 
@@ -71,35 +92,11 @@ Full Stack Developer • GenAI Engineer • BCA Student at Galgotias University
 
 ---
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=dakshg1203&theme=tokyonight&row=1&column=6&no-bg=true&no-frame=true"/>
-
-</p>
-
----
-
-# 📊 Activity Graph
+# 📈 Contribution Graph
 
 <p align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=dakshg1203&theme=tokyo-night&hide_border=true"/>
-
-</p>
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dakshg1203/dakshg1203/pacman-output/bomberman-contribution-graph-dark.svg">
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dakshg1203/dakshg1203/pacman-output/bomberman-contribution-graph.svg">
-<img alt="Contribution Graph" src="https://raw.githubusercontent.com/dakshg1203/dakshg1203/pacman-output/bomberman-contribution-graph.svg">
-</picture>
 
 </p>
 
@@ -117,11 +114,11 @@ Full Stack Developer • GenAI Engineer • BCA Student at Galgotias University
 
 ---
 
-# 📈 Visitor Count
+# 👀 Profile Views
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=dakshg1203&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=dakshg1203&style=for-the-badge&color=0e75b6"/>
 
 </p>
 
@@ -137,6 +134,6 @@ Full Stack Developer • GenAI Engineer • BCA Student at Galgotias University
 
 <h3 align="center">
 
-⭐ Thanks for visiting my profile ⭐
+⭐ Thanks for visiting my profile! ⭐
 
 </h3>
