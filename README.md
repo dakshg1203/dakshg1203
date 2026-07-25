@@ -48,27 +48,9 @@ Full Stack Developer • GenAI Engineer • BCA Student at Galgotias University
 
 <p align="center">
 
-<a href="https://linkedin.com/in/daksh-gupta-1a6b8836a">
-<img src="https://skillicons.dev/icons?i=linkedin" height="48"/>
-</a>
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=dakshg1203&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-&nbsp;&nbsp;&nbsp;
-
-<a href="mailto:dakshgupta206@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="48"/>
-</a>
-
-&nbsp;&nbsp;&nbsp;
-
-<a href="https://www.hackerrank.com/profile/27Daksh">
-<img src="https://cdn.simpleicons.org/hackerrank/00EA64" height="48"/>
-</a>
-
-&nbsp;&nbsp;&nbsp;
-
-<a href="https://tryhackme.com/p/dakshgupta206">
-<img src="https://cdn.simpleicons.org/tryhackme/ffffff" height="48"/>
-</a>
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=dakshg1203&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
